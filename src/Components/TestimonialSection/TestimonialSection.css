@@ -34,8 +34,8 @@
 }
 
 .testimonial_box-img img {
-  width: 50px; /* Larger image size */
-  height: 50px;
+ width: 80% !important; /* Larger image size */
+  height: 80% !important;
   border-radius: 50%;
   object-fit: cover;
 }
